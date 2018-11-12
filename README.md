@@ -10,6 +10,7 @@
 发 pull request
 
 ## 目录结构
+```
 
 --- python (Python 基础)
 |
@@ -22,3 +23,5 @@
 |-- deeplearning (深度学习)
 |
 |-- other (其他)
+
+```
