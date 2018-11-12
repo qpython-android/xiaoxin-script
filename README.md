@@ -1,4 +1,6 @@
-# 小欣学Python剧本
+<p align="center"><img width="100"src="https://github.com/XiaoxinLearnPython/readme/raw/master/assets/logo.jpg"></p>
+
+# 《小欣学Python》剧本
 
 小欣学Python剧本 协作创作项目
 
